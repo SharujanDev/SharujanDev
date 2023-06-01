@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharujan</h1>
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+<h3 align="center">Welcome to my profile! I am a highly motivated recent graduate with a thirst for knowledge and a drive to excel in the professional world. Although I may not have extensive work experience just yet, I am eager to leverage my educational background, skills, and passion to contribute to a dynamic organization. </h3>
 
 - 👨‍💻 All of my projects are available at [www.insertprojectlink.com](www.insertprojectlink.com)
 
